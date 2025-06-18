@@ -1,0 +1,8 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200..700&family=Outfit:wght@100..900&display=swap');
+body {
+    font-family: Outfit;
+}
+
+.sideBarColor {
+    background-color: rgb(165, 214, 250);
+}
